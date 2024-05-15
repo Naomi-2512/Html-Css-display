@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.icons p{
+    width: 250px;
+    margin-top: 10px;
+    color: gray;
+}
+.icon1{
+    margin-right: 30px;
+}
+.icon1 img, .icon2 img,.icon3 img{
+    width: 100px;
+    margin-bottom: 20px;
+}
+.icon2{
+    margin-right: 30px;
+}
